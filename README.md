@@ -66,7 +66,7 @@ Extracted outputs:
 - **Max:** 1.3092e-5 m  
 - **Min:** 0 m  
 
-**Image Placeholder:** `images/total_deformation.png`
+![total_deformation](images/total_deformation.png)
 
 ---
 
@@ -74,7 +74,7 @@ Extracted outputs:
 - **Max:** 1.2234e-7 m  
 - **Min:** -1.7098e-7 m  
 
-**Image Placeholder:** `images/directional_deformation.png`
+![directional_deformation](images/directional_deformation.png)
 
 ---
 
@@ -82,7 +82,7 @@ Extracted outputs:
 - **Max:** 2.1617e5 Pa  
 - **Min:** -64435 Pa  
 
-**Image Placeholder:** `images/max_principal_stress.png`
+![max_principal_stress](images/max_principal_stress.png)
 
 ---
 
@@ -90,7 +90,7 @@ Extracted outputs:
 - **Max:** 74019 Pa  
 - **Min:** 15.456 Pa  
 
-**Image Placeholder:** `images/max_shear_stress.png`
+![max_shear_stress](images/max_shear_stress.png)
 
 ---
 
@@ -139,17 +139,16 @@ Extracted outputs:
 - **Lift Coefficient (Cl):** 0.450831  
 - **Drag Coefficient (Cd):** 0.020241  
 
-**Image Placeholders:**  
-- `images/scaled_residuals.png`  
-- `images/cl_graph.png`  
-- `images/cd_graph.png`
+![scaled_residuals](images/scaled_residuals.png)
+![cl_graph](images/cl_graph.png)
+![cd_graph](images/cd_graph.png)
 
 ---
 
 ### **b. Pressure Coefficient Plot**
 - Cp vs chord length (scale factor: 0.5)
 
-**Image Placeholder:** `images/cp_distribution.png`
+![cp_distribution](images/cp_distribution.png)
 
 ---
 
@@ -158,10 +157,9 @@ Extracted outputs:
 - Static Pressure  
 - Velocity Magnitude  
 
-**Image Placeholders:**  
-- `images/total_pressure.png`  
-- `images/static_pressure.png`  
-- `images/velocity_magnitude.png`
+![total_pressure](images/total_pressure.png)
+![static_pressure](images/static_pressure.png)
+![velocity_magnitude](images/velocity_magnitude.png)
 
 ---
 
@@ -203,4 +201,5 @@ The NACA 6415 is well-suited for lightweight drone or glider platforms demanding
 - Cp, Cl, Cd graphs  
 
 ---
+
 
